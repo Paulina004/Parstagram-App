@@ -2,7 +2,7 @@
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -37,12 +37,6 @@ My solution to this problem was to upload the GIF as a file in the README and re
 **Please note that you will have to give GitHub few seconds to properly load this repository before the GIF shows up correctly.** You can also access my gif through the link below, which was the link I submitted in the CodePath Unit 3 submission area. 
 
 https://i.imgur.com/m0fe7th.gif
-
-https://i.imgur.com/d3cHQDk.gif (link for the GIF I made for running the app on my phone)
-
-
-
-
 
 
 ---
