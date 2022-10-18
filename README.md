@@ -28,15 +28,15 @@ Here's a walkthrough of implemented user stories:
 
 GitHub was giving me trouble uploading the GIF (because my GIF was larger than the GitHub limit for GIF links to showcase all of my app's functionality) using the following script in the README.md template, which looks like this:
 
-```<img src='https://i.imgur.com/m0fe7th.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />```
+```<img src='https://i.imgur.com/Gw9TD5X.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />```
 
 My solution to this problem was to upload the GIF as a file in the README and rewrite the script as follows to display it properly.
 
-```<img src="unit5ios.gif" alt='Video Walkthrough' />```
+```<img src="unit6ios.gif" alt='Video Walkthrough' />```
 
-**Please note that you will have to give GitHub few seconds to properly load this repository before the GIF shows up correctly.** You can also access my gif through the link below, which was the link I submitted in the CodePath Unit 3 submission area. 
+**Please note that you will have to give GitHub few seconds to properly load this repository before the GIF shows up correctly.** You can also access my gif through the link below, which was the link I submitted in the CodePath Unit 6 submission area. 
 
-https://i.imgur.com/m0fe7th.gif
+https://i.imgur.com/Gw9TD5X.gif
 
 
 ---
@@ -83,7 +83,7 @@ My solution to this problem was to upload the GIF as a file in the README and re
 
 ```<img src="unit5ios.gif" alt='Video Walkthrough' />```
 
-**Please note that you will have to give GitHub few seconds to properly load this repository before the GIF shows up correctly.** You can also access my gif through the link below, which was the link I submitted in the CodePath Unit 3 submission area. 
+**Please note that you will have to give GitHub few seconds to properly load this repository before the GIF shows up correctly.** You can also access my gif through the link below, which was the link I submitted in the CodePath Unit 5 submission area. 
 
 https://i.imgur.com/m0fe7th.gif
 
